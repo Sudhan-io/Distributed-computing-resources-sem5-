@@ -1,0 +1,55 @@
+
+UNIT I INTRODUCTION CS3551 Distributed  Computing Syllabus
+
+Introduction: Definition-Relation to Computer System Components – Motivation – Message -Passing
+Systems versus Shared Memory Systems – Primitives for  Distributed Communication –
+Synchronous versus Asynchronous Executions – Design Issues and Challenges; A Model of
+Distributed Computations: A Distributed Program – A Model of Distributed Executions – Models of
+Communication Networks – Global State of a Distributed System.
+
+UNIT II LOGICAL TIME AND GLOBAL STATE CS3551 Distributed Computing Notes
+
+Logical Time: Physical Clock Synchronization: NTP – A Framework for a System of Logical Clocks
+– Scalar Time – Vector Time; Message Ordering and Group Communication: Message Ordering
+Paradigms – Asynchronous Execution with Synchronous Communication – Synchronous Program
+Order on Asynchronous System – Group Communication – Causal Order – Total Order; Global
+State and Snapshot Recording Algorithms: Introduction – System Model and Definitions – Snapshot
+Algorithms for FIFO Channels.
+
+UNIT III DISTRIBUTED MUTEX AND DEADLOCK CS3551 Distributed Computing Important Questions
+
+Distributed Mutual exclusion Algorithms: Introduction – Preliminaries – Lamport’s algorithm – RicartAgrawala’s Algorithm –– Token-Based Algorithms – Suzuki-Kasami’s Broadcast Algorithm;
+Deadlock Detection in Distributed Systems: Introduction – System Model – Preliminaries – Models
+of Deadlocks – Chandy-Misra-Haas Algorithm for the AND model and OR Model. 
+
+UNIT IV CONSENSUS AND RECOVERY CS3551 Distributed Computing Question Bank
+
+Consensus and Agreement Algorithms: Problem Definition – Overview of Results – Agreement in a
+Failure-Free System(Synchronous and Asynchronous) – Agreement in Synchronous Systems with
+Failures; Checkpointing and Rollback Recovery: Introduction – Background and Definitions – Issues
+in Failure Recovery – Checkpoint-based Recovery – Coordinated Checkpointing Algorithm –
+– Algorithm for Asynchronous Checkpointing and Recovery
+
+UNIT V CLOUD COMPUTING CS3551 Distributed Computing Question Paper
+
+Definition of Cloud Computing – Characteristics of Cloud – Cloud Deployment Models – Cloud
+Service Models – Driving Factors and Challenges of Cloud – Virtualization – Load Balancing –
+Scalability and Elasticity – Replication – Monitoring – Cloud Services and Platforms: Compute
+Services – Storage Services – Application Services
+
+1. Kshemkalyani Ajay D, Mukesh Singhal, “Distributed Computing: Principles, Algorithms and
+Systems”, Cambridge Press, 2011.
+2. Mukesh Singhal, Niranjan G Shivaratri, “Advanced Concepts in Operating systems”, McGraw Hill Publishers, 1994.
+
+REFERENCES CS3551 Distributed Computing Important Questions
+
+1. George Coulouris, Jean Dollimore, Time Kindberg, “Distributed Systems Concepts and
+Design”, Fifth Edition, Pearson Education, 2012.
+2. Pradeep L Sinha, “Distributed Operating Systems: Concepts and Design”, Prentice Hall of
+India, 2007.
+3. Tanenbaum A S, Van Steen M, “Distributed Systems: Principles and Paradigms”, Pearson
+Education, 2007.
+4. Liu M L, “Distributed Computing: Principles and Applications”, Pearson Education, 2004.
+5. Nancy A Lynch, “Distributed Algorithms”, Morgan Kaufman Publishers, 2003.
+6. Arshdeep Bagga, Vijay Madisetti, “ Cloud Computing: A Hands-On Approach”, Universities
+Press, 2014.

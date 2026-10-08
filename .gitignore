@@ -1,0 +1,14 @@
+# Ignore Excel spreadsheets (as requested)
+*.xlsx
+*.xls
+~$*.xlsx
+~$*.xls
+
+# Ignore files exceeding GitHub's 100MB limit
+583703136-Cloud-Computing-A-Hands-On-Approach-Arshdeep-Bahga-Vijay-Madisetti-Z-lib-org.pdf
+
+# Temporary files & OS junk
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
